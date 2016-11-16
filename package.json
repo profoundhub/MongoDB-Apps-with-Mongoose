@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/profoundhub/MongoDB-Apps-with-Mongoose/issues"
   },
-  "homepage": "https://github.com/profoundhub/MongoDB-Apps-with-Mongoose#readme"
+  "homepage": "https://github.com/profoundhub/MongoDB-Apps-with-Mongoose#readme",
+  "dependencies": {
+    "mongoose": "^4.6.8"
+  }
 }
