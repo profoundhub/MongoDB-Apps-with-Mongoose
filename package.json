@@ -1,0 +1,17 @@
+{
+  "name": "MongoDB-Apps-with-Mongoose",
+  "version": "1.0.0",
+  "description": "What Is Mongoose?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [],
+  "author": "Daniel Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profoundhub/MongoDB-Apps-with-Mongoose/issues"
+  },
+  "homepage": "https://github.com/profoundhub/MongoDB-Apps-with-Mongoose#readme"
+}
